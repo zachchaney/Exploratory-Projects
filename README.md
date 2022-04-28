@@ -5,6 +5,8 @@ Miscellaneous projects to challenge, develop, and broaden my personal mathematic
 
 ## ASCII Animations
 
+*<p align="right"> Python, Image Processing </p>*
+
 A program in Python that converts a gif into an ASCII representation.
 
 <p align="center">
