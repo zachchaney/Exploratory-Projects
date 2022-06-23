@@ -5,7 +5,7 @@ Miscellaneous projects to challenge, develop, and broaden my personal mathematic
 
 ## ASCII Animations
 
-This Python program converts a gif or image file into an ASCII representation.
+This Python program converts a GIF or image file into an ASCII representation.
 
 <p align="center">
   <img src="https://github.com/zachchaney/Exploratory-Projects/blob/main/ASCII%20Animation/nyan_cat_ascii.gif" width="45%" />
