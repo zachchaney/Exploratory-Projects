@@ -3,7 +3,7 @@ Miscellaneous projects to challenge, develop, and broaden my personal mathematic
 
 ## Snake Game
 
-## ASCII Animations
+## [ASCII Animations](https://github.com/zachchaney/Exploratory-Projects/tree/main/ASCII%20Animation)
 
 This Python program converts a GIF or image file into an ASCII representation.
 
